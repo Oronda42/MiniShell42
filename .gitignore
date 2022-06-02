@@ -1,0 +1,7 @@
+.vscode/
+readline-8.1.2/
+test1/
+test2/
+TRICKS.txt
+*.o
+.DS_Store
